@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    app:cnb_unselectedColor="#fff">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/home"
+        android:title="@string/home"
+        app:cnb_textColor="@color/teal_700"
+        app:cnb_iconColor="@color/teal_700"
+        app:cnb_backgroundColor="#2C5FD172"/>
+    <item
+        android:id="@+id/upcoming"
+        android:icon="@drawable/upcomming"
+        android:title="@string/upcoming"
+        app:cnb_textColor="@color/teal_700"
+        app:cnb_iconColor="@color/teal_700"
+        app:cnb_backgroundColor="#2C5FD172"/>
+    <item
+        android:id="@+id/livetv"
+        android:icon="@drawable/tv"
+        android:title="@string/live_tv"
+        app:cnb_textColor="@color/teal_700"
+        app:cnb_iconColor="@color/teal_700"
+        app:cnb_backgroundColor="#2C5FD172"/>
+    <item
+        android:id="@+id/kids"
+        android:icon="@drawable/kids"
+        android:title="@string/kids"
+        app:cnb_textColor="@color/teal_700"
+        app:cnb_iconColor="@color/teal_700"
+        app:cnb_backgroundColor="#2C5FD172"/>
+
+</menu>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BottomNavBar</string>
+    <string name="home">Home</string>
+    <string name="upcoming">Upcoming</string>
+    <string name="live_tv">Live Tv</string>
+    <string name="kids">Kids</string>
+</resources>
